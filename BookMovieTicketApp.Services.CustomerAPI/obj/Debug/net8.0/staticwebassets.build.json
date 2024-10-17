@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3ZXUIDr/ZWd0PLGq0bNM5aR26hZyitkePPRb90QxwdE=",
+  "Source": "BookMovieTicketApp.Services.CustomerAPI",
+  "BasePath": "_content/BookMovieTicketApp.Services.CustomerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
