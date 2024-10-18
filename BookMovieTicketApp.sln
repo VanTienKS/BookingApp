@@ -11,7 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{F9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{6315F055-74F6-464C-83BC-424FBE0D84CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMovieTicketApp.Services.CouponAPI", "BookMovieTicketApp.Services.CouponAPI\BookMovieTicketApp.Services.CouponAPI.csproj", "{829E81D7-215B-461F-8291-871DC8CF125F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMovieTicketApp.Services.CouponAPI", "BookMovieTicketApp.Services.CouponAPI\BookMovieTicketApp.Services.CouponAPI.csproj", "{829E81D7-215B-461F-8291-871DC8CF125F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMovieTicketApp.Web", "BookMovieTicketApp.Web\BookMovieTicketApp.Web.csproj", "{64720C80-30ED-480F-A4B8-AECB21C5402D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +25,17 @@ Global
 		{829E81D7-215B-461F-8291-871DC8CF125F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{829E81D7-215B-461F-8291-871DC8CF125F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{829E81D7-215B-461F-8291-871DC8CF125F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64720C80-30ED-480F-A4B8-AECB21C5402D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64720C80-30ED-480F-A4B8-AECB21C5402D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64720C80-30ED-480F-A4B8-AECB21C5402D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64720C80-30ED-480F-A4B8-AECB21C5402D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{829E81D7-215B-461F-8291-871DC8CF125F} = {F9C08A61-CE74-4BE1-A5F8-C1862A768DB9}
+		{64720C80-30ED-480F-A4B8-AECB21C5402D} = {FF2909D9-9B6B-40F9-9F9F-A7C423EE4DDC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5C6F4E4B-6548-4F62-8F09-8D7A0AE68D62}

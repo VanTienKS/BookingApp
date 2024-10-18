@@ -289,3 +289,5 @@ F:\File_Code\.Net\BookingApp\BookMovieTicketApp.Services.CouponAPI\obj\Debug\net
 F:\File_Code\.Net\BookingApp\BookMovieTicketApp.Services.CouponAPI\obj\Debug\net8.0\BookMovieTicketApp.Services.CouponAPI.pdb
 F:\File_Code\.Net\BookingApp\BookMovieTicketApp.Services.CouponAPI\obj\Debug\net8.0\BookMovieTicketApp.Services.CouponAPI.genruntimeconfig.cache
 F:\File_Code\.Net\BookingApp\BookMovieTicketApp.Services.CouponAPI\obj\Debug\net8.0\ref\BookMovieTicketApp.Services.CouponAPI.dll
+F:\File_Code\.Net\BookingApp\BookMovieTicketApp.Services.CouponAPI\obj\Debug\net8.0\BookMovieTicketApp.Services.CouponAPI.Properties.Resources.resources
+F:\File_Code\.Net\BookingApp\BookMovieTicketApp.Services.CouponAPI\obj\Debug\net8.0\BookMovieTicketApp.Services.CouponAPI.csproj.GenerateResource.cache
