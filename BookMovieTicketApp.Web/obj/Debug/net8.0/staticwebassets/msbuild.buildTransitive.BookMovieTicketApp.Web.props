@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BookMovieTicketApp.Web.props" />
+</Project>

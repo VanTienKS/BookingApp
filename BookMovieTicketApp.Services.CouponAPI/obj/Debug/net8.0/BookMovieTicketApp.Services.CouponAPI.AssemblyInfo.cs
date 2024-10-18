@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookMovieTicketApp.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e90f849d0066a55bbc78ca3b301d136f91aba64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3dce884de462a43f1c552c6530c427c4ba62611")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookMovieTicketApp.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookMovieTicketApp.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

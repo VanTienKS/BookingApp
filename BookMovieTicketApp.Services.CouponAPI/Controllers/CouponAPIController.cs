@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookMovieTicketApp.Services.CouponAPI.Controllers {
-    [Route("api/[controller]")]
+    [Route("api/coupon")]
     [ApiController]
     public class CouponAPIController : ControllerBase {
         private readonly AppDbContext _db;
@@ -19,6 +19,7 @@ namespace BookMovieTicketApp.Services.CouponAPI.Controllers {
             _mapper = mapper;
             _response = new ResponseDto();
         }
+
         [HttpGet]
         public ResponseDto Get() {
             try {
@@ -73,6 +74,7 @@ namespace BookMovieTicketApp.Services.CouponAPI.Controllers {
         }
 
         [HttpDelete]
+        [Route("{id:int}")]
         public ResponseDto Delete(int id) {
             try {
                 Coupon obj = _db.Coupons.First(u => u.CouponId == id);
